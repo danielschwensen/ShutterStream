@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ShutterStream (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ShutterStream (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
